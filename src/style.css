@@ -1,0 +1,28 @@
+#teamHeader {
+    font-family:'Tilt Prism';
+    font-size:50px;
+    color: #e7e7e7;
+}
+
+#teamJumbotron {
+    background-color: #e36414;
+    height: 12rem;
+}
+
+.card {
+    font-family: 'Oswald';
+    width:20rem;
+    height:auto;
+}
+
+#intCardHeader {
+    background-color: #ff8c42;
+}
+
+#manCardHeader {
+    background-color: #fcaf58;
+}
+
+#engCardHeader {
+    background-color: #f9c784;
+}
